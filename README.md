@@ -1,6 +1,12 @@
 # Hi there 👋
 
-![Gif](https://media.giphy.com/media/sr8jYZVVsCmxddga8w/giphy.gif)
+![Gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+
+
+
+
 
 ![Captain Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&theme=dracula)
 
