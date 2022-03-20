@@ -15,5 +15,9 @@
 
 <!----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgojoof6eyes&layout=compact)](https://github.com/iamgojoof6eyes/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&theme=onedark)](https://github.com/iamgojoof6eyes/github-profile-trophy)>
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&theme=onedark)](https://github.com/iamgojoof6eyes/github-profile-trophy)--->
 
+[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/iamgojoof6eyes)
+
+
+***iamgojoof6eyes*** this is a **special** repository because it contains `readme.md` file which contais my status of __Github__ and show it on my profile page
