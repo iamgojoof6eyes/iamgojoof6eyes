@@ -19,7 +19,7 @@
 Will remove from comments after completeing my project
 --->
 
-[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/iamgojoof6eyes)
+[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&bg_color=000000&color=ff0000&line=ff3300&point=cc0000&hide_border=true)](https://github.com/iamgojoof6eyes)
 
 
 ***iamgojoof6eyes*** this is a **special** repository because it contains `readme.md` file which contais my status of __Github__ and show it on my profile page
