@@ -8,7 +8,7 @@
 
 
 
-![Captain Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Captain Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamgojoof6eyes&theme=highcontrast&date_format=j%20M%5B%20Y%5D&sideNums=DD0000&background=000000&border=DD2727&stroke=DD6316&ring=FF7D12&currStreakNum=FFBD05&dates=FFD500&sideLabels=FF851A)](https://git.io/streak-stats)
