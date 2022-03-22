@@ -1,6 +1,9 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-![Gif](https://media.giphy.com/media/9EDMrodQYFm5vP3fJ3/giphy.gif)
+<h1 align="center"><img src="https://media.giphy.com/media/9EDMrodQYFm5vP3fJ3/giphy.gif" /></h1>
+
+
+
 
 
 
@@ -25,3 +28,6 @@ Will remove from comments after completeing my project
 
 
 ***iamgojoof6eyes*** this is a **special** repository because it contains `readme.md` file which contais my status of __Github__ and show it on my profile page
+
+
+<h2 align="center"><b><i>SEE YOU IN HELL 😉</b></i></h2>
