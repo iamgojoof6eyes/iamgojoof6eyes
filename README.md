@@ -16,11 +16,26 @@
 
 ------
 
+<h1 align="center">Stalkers 🤓</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamgojoof6eyes&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align='center'
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamgojoof6eyes&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false" alt="Stalks"></a></br></br>
+
+</p>
 
 -------
 
+<h1 align="center">My Stats 😉</h1>
+
+<p align='center'>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
+   <a herf="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamgojoof6eyes&theme=highcontrast&sideNums=DD0000&background=000000&border=DD2727&stroke=DD6316&ring=FF7D12&currStreakNum=FFBD05&dates=FFD500&sideLabels=FF851A" alt="Streaks"></a></br></br>
+   <a herf="https://github.com/iamgojoof6eyes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&theme=onedark" alt="Trophies"></a></br></br>
+   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgojoof6eyes&theme=radical&layout=compact" alt="Language"></a></br></br>
+
+</p>
+
+<!---
 ![Captain Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000)
 
 -------
@@ -36,7 +51,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgojoof6eyes&theme=radical&layout=compact)
 
 
--------
+------->
 
 
 [![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&bg_color=000000&color=ff0000&line=ff3300&point=cc0000&hide_border=true)](https://github.com/iamgojoof6eyes)
