@@ -2,6 +2,14 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/u3ZnJAHnjiUJPYcIHp/giphy.gif" /></h1>
 
+<h1 align="center">Social Media Accounts 🌈</h1>
+
+<p align='center'>
+  <a href="https://t.me/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a></br></br>
+   <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a></br></br>
+   <a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a></br></br>
+
+</p>
 
 
 
