@@ -6,6 +6,8 @@
 
 <h1 align="center">Social Media Accounts 🌈</h1>
 
+<h1 align="center"><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h1>
+
 <p align='center'>
   <a href="https://t.me/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a></br></br>
    <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a></br></br>
@@ -14,11 +16,14 @@
 </p>
 
 
+
 ------
 
 <h1 align="center">Stalkers 🤓</h1>
 
-<p align='center'
+<h1 align="center"><img src="https://media.giphy.com/media/7OTuu0E79xXETNZbD1/giphy.gif" /></h1>
+
+<p align='center'>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamgojoof6eyes&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false" alt="Stalks"></a></br></br>
 
 </p>
@@ -26,6 +31,8 @@
 -------
 
 <h1 align="center">My Stats 😉</h1>
+
+<h1 align="center"><img src="https://media.giphy.com/media/BUjWcyCJOwJG3hFBes/giphy.gif" /></h1>
 
 <p align='center'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
@@ -62,6 +69,8 @@
 
 --------
 
-<h2 align="center"><b><i>SEE YOU IN <a href="https://github.com/The-HellBot/HellBot">HELL 😉</b></i></h2>
+<h1 align="center"><b><i>SEE YOU IN <a href="https://github.com/The-HellBot/HellBot">HELL 😉</b></i></h1>
+  
+<h1 align="center"><img src="https://media.giphy.com/media/PfwTddVAAUzxQB3yo5/giphy.gif" /></h1>
 
 
