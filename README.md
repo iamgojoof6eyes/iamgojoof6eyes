@@ -62,7 +62,7 @@
 ------->
 
 
-[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&count_private=true&include_all_commits=true&bg_color=000000&color=ff0000&line=ff3300&point=cc0000&hide_border=true)](https://github.com/iamgojoof6eyes)
+
 
 -------
 
