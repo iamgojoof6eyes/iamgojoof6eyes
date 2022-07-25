@@ -51,7 +51,8 @@
 
 --------
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&theme=onedark)](https://github.com/iamgojoof6eyes/github-profile-trophy)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 -------
 
