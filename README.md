@@ -65,7 +65,10 @@
 
 ------->
 
+<!--<h1 align="center">Recent activities 💻</h1>
+START_SECTION:activity
 
+<!--END_SECTION:activity-->
 
 
 -------
