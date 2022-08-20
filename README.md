@@ -67,6 +67,11 @@
 
 <!--<h1 align="center">Recent activities 💻</h1>
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#5](https://github.com/jamesgeorge007/jamesgeorge007/issues/5) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+2. 💪 Opened PR [#82](https://github.com/The-HellBot/Plugins-T/pull/82) in [The-HellBot/Plugins-T](https://github.com/The-HellBot/Plugins-T)
+3. 💪 Opened PR [#72](https://github.com/The-HellBot/HellBot/pull/72) in [The-HellBot/HellBot](https://github.com/The-HellBot/HellBot)
+4. 🎉 Merged PR [#12](https://github.com/iamgojoof6eyes/Gojo_Satarou/pull/12) in [iamgojoof6eyes/Gojo_Satarou](https://github.com/iamgojoof6eyes/Gojo_Satarou)
+5. 💪 Opened PR [#7](https://github.com/The-HellBot/Music/pull/7) in [The-HellBot/Music](https://github.com/The-HellBot/Music)
 <!--END_SECTION:activity-->
 
 
