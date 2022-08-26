@@ -96,7 +96,7 @@
 
 --------
 
-<h1><b><i>SEE YOU IN <a href="https://github.com/The-HellBot/HellBot">HELL 😉</b></i></h1>
+<h1><b><i>SEE YOU IN <a href="https://github.com/The-HellBot/HellBot">HELL </b></i><img src="https://media.giphy.com/media/S8rxeQhIJ0zilMMZcB/giphy.gif" width="90"></h1>
   
 <h1><img src="https://media.giphy.com/media/PfwTddVAAUzxQB3yo5/giphy.gif" /></h1>
 
