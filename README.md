@@ -79,7 +79,7 @@
 [![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://guthub.com/iamgojoof6eyes)
 
 ------->
-
+---------
 
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
@@ -93,6 +93,22 @@
 
 </details>
 
+------
+
+<details><summary><h2>Type of coder 🙈</h2></summary><br>
+
+<h2><a herf="https://komarev.com/ghpvc/?username=iamgojoof6eyes"><img src="http://img.shields.io/badge/Code%20Time-367%20hrs%2027%20mins-blue" alt="Code time">
+</a></br></br></h2>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+### NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+</details>
 
 --------
 
