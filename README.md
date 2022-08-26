@@ -16,7 +16,7 @@
 
 <h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
 
-<p align='center'>
+<p>
   <a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a></br></br>
    <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a></br></br>
    <a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a></br></br>
@@ -33,7 +33,7 @@
 
 <h3><img src="https://media.giphy.com/media/7OTuu0E79xXETNZbD1/giphy.gif" /></h3>
 
-<p align='center'>
+<p>
     <a herf="https://github.com/iamgojoof6eyes"><img src="https://komarev.com/ghpvc/?username=iamgojoof6eyes&label=Profile%20views" alt="Views">
 </a></br></br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamgojoof6eyes&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false" alt="Stalks"></a></br></br>
