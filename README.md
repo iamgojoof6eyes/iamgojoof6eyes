@@ -85,11 +85,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/iamgojoof6eyes/Gojo_Satarou/issues/13) in [iamgojoof6eyes/Gojo_Satarou](https://github.com/iamgojoof6eyes/Gojo_Satarou)
-2. ❗️ Closed issue [#5](https://github.com/jamesgeorge007/jamesgeorge007/issues/5) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-3. 🗣 Commented on [#5](https://github.com/jamesgeorge007/jamesgeorge007/issues/5) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-4. ❗️ Opened issue [#5](https://github.com/jamesgeorge007/jamesgeorge007/issues/5) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-5. 💪 Opened PR [#82](https://github.com/The-HellBot/Plugins-T/pull/82) in [The-HellBot/Plugins-T](https://github.com/The-HellBot/Plugins-T)
+1. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+2. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+3. ❗️ Reopened issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+4. ❗️ Closed issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+5. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
 <!--END_SECTION:activity-->
 
 </details>
