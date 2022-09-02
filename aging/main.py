@@ -13,7 +13,7 @@ GITHUB_REPOSITORY = os.environ["GITHUB_REPOSITORY"]
 # Extract repository name because it's combined with username
 repositoryName = GITHUB_REPOSITORY.split("/")[1]
 
-bDay = date(2002, 1, 8)
+bDay = date(2005, 5, 18)
 today = date.today()
 
 # Calculate age and cast to str
