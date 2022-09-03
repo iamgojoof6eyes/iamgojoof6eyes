@@ -5,7 +5,7 @@
 
 <h4>My self Captain Ezio 😉</h4>
 <h4>I am currently 17 y.o.:grinning: </h4>
-<h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots
+<h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots</h4>
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
 <h4>I don't always laugh because I am mad, I do because it is my nature😁</h4>
