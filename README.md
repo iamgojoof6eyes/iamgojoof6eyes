@@ -86,11 +86,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+1. 🗣 Commented on [#7](https://github.com/The-HellBot/Music/issues/7) in [The-HellBot/Music](https://github.com/The-HellBot/Music)
 2. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-3. ❗️ Reopened issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-4. ❗️ Closed issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-5. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+3. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+4. ❗️ Reopened issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+5. ❗️ Closed issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
 <!--END_SECTION:activity-->
 
 </details>
