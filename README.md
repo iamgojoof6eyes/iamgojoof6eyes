@@ -5,6 +5,7 @@
 
 <h4>My self Captain Ezio 😉</h4>
 <h4>I am currently 17 y.o.:grinning: </h4>
+<h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
 <h4>I don't always laugh because I am mad, I do because it is my nature😁</h4>
@@ -112,7 +113,7 @@
 
 -------->
 
-<h1><b><i>SEE YOU IN <a href="https://github.com/The-HellBot/HellBot">HELL </b></i><img src="https://media.giphy.com/media/S8rxeQhIJ0zilMMZcB/giphy.gif" width="90"></h1>
+<h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/S8rxeQhIJ0zilMMZcB/giphy.gif" width="90"></h1>
   
 <h1><img src="https://media.giphy.com/media/PfwTddVAAUzxQB3yo5/giphy.gif" /></h1>
 
