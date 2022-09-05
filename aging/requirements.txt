@@ -8,8 +8,8 @@ isort==5.7.0
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pycodestyle==2.6.0
-PyGithub==1.54.1
-PyJWT<2.4.0
+PyGithub==1.55
+pyjwt>=2.0
 pylint==2.6.0
 requests==2.25.1
 six==1.15.0
