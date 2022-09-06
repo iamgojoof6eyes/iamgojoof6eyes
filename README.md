@@ -85,11 +85,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#325](https://github.com/anmol098/waka-readme-stats/issues/325) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🎉 Merged PR [#32](https://github.com/desinobita/SuzuneHorikita/pull/32) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
-3. 🎉 Merged PR [#15](https://github.com/Gojo-Bots/Gojo_Satarou/pull/15) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-4. 🗣 Commented on [#7](https://github.com/The-HellBot/Music/issues/7) in [The-HellBot/Music](https://github.com/The-HellBot/Music)
-5. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+1. ❗️ Opened issue [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. ❗️ Closed issue [#325](https://github.com/anmol098/waka-readme-stats/issues/325) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. ❗️ Opened issue [#325](https://github.com/anmol098/waka-readme-stats/issues/325) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🎉 Merged PR [#32](https://github.com/desinobita/SuzuneHorikita/pull/32) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
+5. 🎉 Merged PR [#15](https://github.com/Gojo-Bots/Gojo_Satarou/pull/15) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 <!--END_SECTION:activity-->
 
 </details>
