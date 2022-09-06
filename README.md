@@ -101,7 +101,7 @@
 <h2><a herf="https://komarev.com/ghpvc/?username=iamgojoof6eyes"><img src="http://img.shields.io/badge/Code%20Time-367%20hrs%2027%20mins-blue" alt="Code time">
 </a></br></br></h2>
 
-<!--START_SECTION:waka-- >
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
