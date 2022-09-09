@@ -85,11 +85,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Gojo-Bots/Gojo_Satarou/pull/16) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-2. 🎉 Merged PR [#17](https://github.com/Gojo-Bots/Gojo_Satarou/pull/17) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-3. 🎉 Merged PR [#33](https://github.com/desinobita/SuzuneHorikita/pull/33) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
-4. 🗣 Commented on [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. ❗️ Closed issue [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 💪 Opened PR [#3](https://github.com/TeamArrayCore/ArrayCore/pull/3) in [TeamArrayCore/ArrayCore](https://github.com/TeamArrayCore/ArrayCore)
+2. 🎉 Merged PR [#16](https://github.com/Gojo-Bots/Gojo_Satarou/pull/16) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+3. 🎉 Merged PR [#17](https://github.com/Gojo-Bots/Gojo_Satarou/pull/17) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+4. 🎉 Merged PR [#33](https://github.com/desinobita/SuzuneHorikita/pull/33) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
+5. 🗣 Commented on [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
