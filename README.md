@@ -4,6 +4,8 @@
 <h1><img src="https://media.giphy.com/media/u3ZnJAHnjiUJPYcIHp/giphy.gif" /></h1>
 
 <h4>My self Captain Ezio 😉</h4>
+<h4>I am currently 17 y.o.😇</h4>
+<h4>You can use a pronoun for me he/him😌</h4>
 <h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</h4>
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
@@ -13,16 +15,41 @@
 
 -----
 
-<details><summary><h2>Social Media Accounts 🌈</h2></summary><br>
+<details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
 
 <h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
 
 <p>
-  <a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a></br></br>
-   <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a></br></br>
-   <a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a></br></br>
+  
+  <b>In case if you want to reach out to me about anything, be it some doubt or just to hangout and talk ☺️</b>
+  </br>
+  <b>All the contact methods provided are provided in the proper priority according to me. It'll take more time to get a reply as you move down.</b>
+  </br>
+  
+<a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+</br>
+</br>
+  
+<a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+</br>
+</br>
+
+<a href="mailto:iamgojoof6eyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</br>
+</br>
+
+<a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
+</a>
+</br>
+</br>
+
+<a href="www.linkedin.com/in/iamgojoof6eyes"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn"></a>
+</br>
+</br>
 
 </p>
+
+
 
 </details>
 
@@ -85,100 +112,24 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/TeamArrayCore/ArrayCore/pull/3) in [TeamArrayCore/ArrayCore](https://github.com/TeamArrayCore/ArrayCore)
-2. 🎉 Merged PR [#16](https://github.com/Gojo-Bots/Gojo_Satarou/pull/16) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-3. 🎉 Merged PR [#17](https://github.com/Gojo-Bots/Gojo_Satarou/pull/17) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-4. 🗣 Commented on [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. ❗️ Closed issue [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+2. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+3. ❗️ Reopened issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+4. ❗️ Closed issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+5. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
 <!--END_SECTION:activity-->
 
 </details>
 
 ------
 
-<details><summary><h2>Type of coder :bowtie:</h2></summary><br>
+<!--<details><summary><h2>Type of coder 🙈</h2></summary><br>
 
 <h2><a herf="https://komarev.com/ghpvc/?username=iamgojoof6eyes"><img src="http://img.shields.io/badge/Code%20Time-367%20hrs%2027%20mins-blue" alt="Code time">
 </a></br></br></h2>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%202%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-421%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 999 Contributions in the Year 2022
- > 
-> 📦 3.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 92 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    64 commits     ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.16% 
-🌆 Daytime    146 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.71% 
-🌃 Evening    124 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.13% 
-🌙 Night      0 commits      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       36 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.78% 
-Tuesday      36 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.78% 
-Wednesday    39 commits     ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.68% 
-Thursday     55 commits     ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.47% 
-Friday       70 commits     ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.96% 
-Saturday     52 commits     ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.57% 
-Sunday       46 commits     ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.77%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   7 hrs 31 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   91.69% 
-JSON                     22 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.51% 
-Text                     10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   2.04% 
-Markdown                 6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.41% 
-Other                    1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.28%
-
-🔥 Editors: 
-VS Code                  8 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
-
-🐱‍💻 Projects: 
-Group_lock               4 hrs 59 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.77% 
-Gojo_Satarou             1 hr 6 mins         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.58% 
-6eyes                    1 hr                ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.39% 
-Music                    49 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.12% 
-FuckHogaAb-main          6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.27%
-
-💻 Operating System: 
-Windows                  8 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
-
-```
-
-
-
- Last Updated on 13/09/2022 05:52:26 UTC
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-- >
+<!--END_SECTION:waka-- >
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
@@ -186,7 +137,7 @@ Python                   9 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 </details>
 
-
+-------->
 
 <h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/S8rxeQhIJ0zilMMZcB/giphy.gif" width="90"></h1>
   
