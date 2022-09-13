@@ -5,6 +5,7 @@
 
 <h4>My self Captain Ezio 😉</h4>
 <h4>I am currently {{ AGE }} y.o.😇</h4>
+<h4>You can use a pronoun for me he/him😌</h4>
 <h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</h4>
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
@@ -14,16 +15,41 @@
 
 -----
 
-<details><summary><h2>Social Media Accounts 🌈</h2></summary><br>
+<details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
 
 <h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
 
 <p>
-  <a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a></br></br>
-   <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a></br></br>
-   <a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a></br></br>
+  
+  <b>In case if you want to reach out to me about anything, be it some doubt or just to hangout and talk ☺️</b>
+  </br>
+  <b>All the contact methods provided are provided in the proper priority according to me. It'll take more time to get a reply as you move down.</b>
+  </br>
+  
+<a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+</br>
+</br>
+  
+<a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+</br>
+</br>
+
+<a href="mailto:iamgojoof6eyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</br>
+</br>
+
+<a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
+</a>
+</br>
+</br>
+
+<a href="www.linkedin.com/in/iamgojoof6eyes"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn"></a>
+</br>
+</br>
 
 </p>
+
+
 
 </details>
 
