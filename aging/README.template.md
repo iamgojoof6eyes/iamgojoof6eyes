@@ -38,12 +38,12 @@
 </br>
 </br>
 
-<a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
+<a href="www.linkedin.com/in/iamgojoof6eyes"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn"></a>
 </a>
 </br>
 </br>
 
-<a href="www.linkedin.com/in/iamgojoof6eyes"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn"></a>
+<a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </br>
 </br>
 
