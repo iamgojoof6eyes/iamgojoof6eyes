@@ -11,7 +11,7 @@
 <h4>Trying to learn things🤓</h4>
 <h4>I don't always laugh because I am mad, I do because it is my nature😁</h4>
 <h4>Sentence to discribe me: Trader or all, master of nothing🥲</h4>
-
+<h4>I used to keep my repositories private until I finished working on it:sweat_smile:</h4>
 
 -----
 
