@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#896](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/896) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#3](https://github.com/TeamArrayCore/ArrayCore/pull/3) in [TeamArrayCore/ArrayCore](https://github.com/TeamArrayCore/ArrayCore)
-3. 🎉 Merged PR [#16](https://github.com/Gojo-Bots/Gojo_Satarou/pull/16) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-4. 🎉 Merged PR [#17](https://github.com/Gojo-Bots/Gojo_Satarou/pull/17) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-5. 🗣 Commented on [#326](https://github.com/anmol098/waka-readme-stats/issues/326) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🎉 Merged PR [#18](https://github.com/Gojo-Bots/Gojo_Satarou/pull/18) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+2. ❗️ Opened issue [#896](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/896) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 💪 Opened PR [#3](https://github.com/TeamArrayCore/ArrayCore/pull/3) in [TeamArrayCore/ArrayCore](https://github.com/TeamArrayCore/ArrayCore)
+4. 🎉 Merged PR [#16](https://github.com/Gojo-Bots/Gojo_Satarou/pull/16) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+5. 🎉 Merged PR [#17](https://github.com/Gojo-Bots/Gojo_Satarou/pull/17) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 <!--END_SECTION:activity-->
 
 </details>
