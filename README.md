@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Gojo-Bots/Gojo_Satarou/pull/19) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-2. 🎉 Merged PR [#18](https://github.com/Gojo-Bots/Gojo_Satarou/pull/18) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-3. ❗️ Opened issue [#896](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/896) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#3](https://github.com/TeamArrayCore/ArrayCore/pull/3) in [TeamArrayCore/ArrayCore](https://github.com/TeamArrayCore/ArrayCore)
-5. 🎉 Merged PR [#16](https://github.com/Gojo-Bots/Gojo_Satarou/pull/16) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+1. 🎉 Merged PR [#20](https://github.com/Gojo-Bots/Gojo_Satarou/pull/20) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+2. 🎉 Merged PR [#19](https://github.com/Gojo-Bots/Gojo_Satarou/pull/19) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+3. 🎉 Merged PR [#18](https://github.com/Gojo-Bots/Gojo_Satarou/pull/18) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+4. ❗️ Opened issue [#896](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/896) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+5. 💪 Opened PR [#3](https://github.com/TeamArrayCore/ArrayCore/pull/3) in [TeamArrayCore/ArrayCore](https://github.com/TeamArrayCore/ArrayCore)
 <!--END_SECTION:activity-->
 
 </details>
