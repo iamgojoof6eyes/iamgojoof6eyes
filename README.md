@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/desinobita/SuzuneHorikita/pull/36) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
-2. 🎉 Merged PR [#35](https://github.com/desinobita/SuzuneHorikita/pull/35) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
-3. 🎉 Merged PR [#20](https://github.com/Gojo-Bots/Gojo_Satarou/pull/20) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-4. 🎉 Merged PR [#19](https://github.com/Gojo-Bots/Gojo_Satarou/pull/19) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-5. 🎉 Merged PR [#18](https://github.com/Gojo-Bots/Gojo_Satarou/pull/18) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+1. ❗️ Opened issue [#1112](https://github.com/pyrogram/pyrogram/issues/1112) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 🎉 Merged PR [#36](https://github.com/desinobita/SuzuneHorikita/pull/36) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
+3. 🎉 Merged PR [#35](https://github.com/desinobita/SuzuneHorikita/pull/35) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
+4. 🎉 Merged PR [#20](https://github.com/Gojo-Bots/Gojo_Satarou/pull/20) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+5. 🎉 Merged PR [#19](https://github.com/Gojo-Bots/Gojo_Satarou/pull/19) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 <!--END_SECTION:activity-->
 
 </details>
