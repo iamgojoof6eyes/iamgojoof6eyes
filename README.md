@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Gojo-Bots/Gojo_Satarou/pull/22) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-2. ❗️ Opened issue [#178](https://github.com/bisohns/search-engine-parser/issues/178) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-3. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-4. ❗️ Closed issue [#1112](https://github.com/pyrogram/pyrogram/issues/1112) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🗣 Commented on [#1112](https://github.com/pyrogram/pyrogram/issues/1112) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. 🎉 Merged PR [#23](https://github.com/Gojo-Bots/Gojo_Satarou/pull/23) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+2. 🎉 Merged PR [#24](https://github.com/Gojo-Bots/Gojo_Satarou/pull/24) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+3. 🎉 Merged PR [#25](https://github.com/Gojo-Bots/Gojo_Satarou/pull/25) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+4. 🎉 Merged PR [#26](https://github.com/Gojo-Bots/Gojo_Satarou/pull/26) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+5. 🎉 Merged PR [#27](https://github.com/Gojo-Bots/Gojo_Satarou/pull/27) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 <!--END_SECTION:activity-->
 
 </details>
