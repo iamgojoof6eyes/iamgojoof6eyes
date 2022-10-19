@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/Gojo-Bots/Gojo_Satarou/pull/34) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-2. 🗣 Commented on [#34](https://github.com/Gojo-Bots/Gojo_Satarou/issues/34) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-3. ❌ Closed PR [#38](https://github.com/Gojo-Bots/Gojo_Satarou/pull/38) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-4. 🗣 Commented on [#38](https://github.com/Gojo-Bots/Gojo_Satarou/issues/38) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
-5. 🎉 Merged PR [#36](https://github.com/Gojo-Bots/Gojo_Satarou/pull/36) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+1. 🎉 Merged PR [#40](https://github.com/Gojo-Bots/Gojo_Satarou/pull/40) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+2. 🎉 Merged PR [#41](https://github.com/Gojo-Bots/Gojo_Satarou/pull/41) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+3. ❌ Closed PR [#34](https://github.com/Gojo-Bots/Gojo_Satarou/pull/34) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+4. 🗣 Commented on [#34](https://github.com/Gojo-Bots/Gojo_Satarou/issues/34) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+5. ❌ Closed PR [#38](https://github.com/Gojo-Bots/Gojo_Satarou/pull/38) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 <!--END_SECTION:activity-->
 
 </details>
