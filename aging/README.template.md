@@ -10,7 +10,7 @@
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
 <h4>I don't always laugh because I am mad, I do because it is my nature😁</h4>
-<h4>Sentence to discribe me: Trader or all, master of nothing🥲</h4>
+<h4>Sentence to discribe me: Trader of all, master of nothing🥲</h4>
 <h4>I used to keep my repositories private until I finished working on it:sweat_smile:</h4>
 
 -----
@@ -107,11 +107,7 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-2. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-3. ❗️ Reopened issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-4. ❗️ Closed issue [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-5. 🗣 Commented on [#175](https://github.com/bisohns/search-engine-parser/issues/175) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -123,6 +119,7 @@
 
 
 <!--START_SECTION:waka-->
+  
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
