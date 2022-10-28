@@ -107,7 +107,7 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/Gojo-Bots/Gojo_Satarou/pull/42) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+1. 💪 Opened PR [#87](https://github.com/jamesgeorge007/github-activity-readme/pull/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🎉 Merged PR [#39](https://github.com/Gojo-Bots/Gojo_Satarou/pull/39) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 3. 🎉 Merged PR [#40](https://github.com/Gojo-Bots/Gojo_Satarou/pull/40) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
 4. 🎉 Merged PR [#41](https://github.com/Gojo-Bots/Gojo_Satarou/pull/41) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
