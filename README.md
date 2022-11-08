@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#45](https://github.com/Gojo-Bots/Gojo_Satoru/pull/45) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-3. 🎉 Merged PR [#44](https://github.com/Gojo-Bots/Gojo_Satoru/pull/44) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 💪 Opened PR [#87](https://github.com/jamesgeorge007/github-activity-readme/pull/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. ❌ Closed PR [#34](https://github.com/Gojo-Bots/Gojo_Satarou/pull/34) in [Gojo-Bots/Gojo_Satarou](https://github.com/Gojo-Bots/Gojo_Satarou)
+1. 🎉 Merged PR [#46](https://github.com/Gojo-Bots/Gojo_Satoru/pull/46) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+2. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#45](https://github.com/Gojo-Bots/Gojo_Satoru/pull/45) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+4. 🎉 Merged PR [#44](https://github.com/Gojo-Bots/Gojo_Satoru/pull/44) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+5. 💪 Opened PR [#87](https://github.com/jamesgeorge007/github-activity-readme/pull/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 </details>
