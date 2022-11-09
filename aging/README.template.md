@@ -4,7 +4,7 @@
 <h1><img src="https://media.giphy.com/media/u3ZnJAHnjiUJPYcIHp/giphy.gif" /></h1>
 
 <h4>My self Captain Ezio 😉</h4>
-<h4>I am currently {{ AGE }} y.o.😇</h4>
+<h4>I am currently 17 y.o.😇</h4>
 <h4>You can use a pronoun for me he/him😌</h4>
 <h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</h4>
 <h4>I am serious about nothing except coding🥰</h4>
@@ -119,7 +119,7 @@
 
 
 <!--START_SECTION:waka-->
-  
+
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
