@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/itsmehemant7/PyMovieDb/issues/1) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
-2. ❌ Closed PR [#47](https://github.com/Gojo-Bots/Gojo_Satoru/pull/47) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-3. 🗣 Commented on [#47](https://github.com/Gojo-Bots/Gojo_Satoru/issues/47) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 🎉 Merged PR [#46](https://github.com/Gojo-Bots/Gojo_Satoru/pull/46) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-5. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#1](https://github.com/itsmehemant7/PyMovieDb/issues/1) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
+2. 🗣 Commented on [#1](https://github.com/itsmehemant7/PyMovieDb/issues/1) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
+3. ❗️ Opened issue [#1](https://github.com/itsmehemant7/PyMovieDb/issues/1) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
+4. ❌ Closed PR [#47](https://github.com/Gojo-Bots/Gojo_Satoru/pull/47) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+5. 🗣 Commented on [#47](https://github.com/Gojo-Bots/Gojo_Satoru/issues/47) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
 
 </details>
