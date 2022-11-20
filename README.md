@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/itsmehemant7/PyMovieDb/issues/3) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
+1. ❗️ Opened issue [#4](https://github.com/itsmehemant7/PyMovieDb/issues/4) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
 2. 🗣 Commented on [#3](https://github.com/itsmehemant7/PyMovieDb/issues/3) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
 3. 🗣 Commented on [#3](https://github.com/itsmehemant7/PyMovieDb/issues/3) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
-4. 🎉 Merged PR [#51](https://github.com/Gojo-Bots/Gojo_Satoru/pull/51) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-5. 🎉 Merged PR [#52](https://github.com/Gojo-Bots/Gojo_Satoru/pull/52) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+4. 🗣 Commented on [#3](https://github.com/itsmehemant7/PyMovieDb/issues/3) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
+5. 🎉 Merged PR [#51](https://github.com/Gojo-Bots/Gojo_Satoru/pull/51) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
 
 </details>
