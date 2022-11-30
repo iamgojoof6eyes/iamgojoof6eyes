@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/iamgojoof6eyes/psyrex_bot/pull/6) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
-2. 💪 Opened PR [#6](https://github.com/iamgojoof6eyes/psyrex_bot/pull/6) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
-3. 🎉 Merged PR [#54](https://github.com/Gojo-Bots/Gojo_Satoru/pull/54) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 🎉 Merged PR [#55](https://github.com/Gojo-Bots/Gojo_Satoru/pull/55) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-5. ❗️ Closed issue [#5](https://github.com/itsmehemant7/PyMovieDb/issues/5) in [itsmehemant7/PyMovieDb](https://github.com/itsmehemant7/PyMovieDb)
+1. 🎉 Merged PR [#7](https://github.com/iamgojoof6eyes/psyrex_bot/pull/7) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
+2. 💪 Opened PR [#7](https://github.com/iamgojoof6eyes/psyrex_bot/pull/7) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
+3. 🎉 Merged PR [#6](https://github.com/iamgojoof6eyes/psyrex_bot/pull/6) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
+4. 💪 Opened PR [#6](https://github.com/iamgojoof6eyes/psyrex_bot/pull/6) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
+5. 🎉 Merged PR [#54](https://github.com/Gojo-Bots/Gojo_Satoru/pull/54) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
 
 </details>
