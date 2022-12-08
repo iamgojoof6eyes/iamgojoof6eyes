@@ -119,12 +119,22 @@
 
 
 <!--START_SECTION:waka-->
-
+  
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 ### NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+</details>
+
+--------
+
+<details><summary><h2>In nutshell 🤏</h2></summary><br>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/iamgojoof6eyes/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://www.githubtrends.io/wrapped/iamgojoof6eyes)
+
+[To see more](https://www.githubtrends.io/wrapped/iamgojoof6eyes)
 
 </details>
 
