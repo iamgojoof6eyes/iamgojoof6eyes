@@ -201,6 +201,16 @@ Python                   11 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 --------
 
+<details><summary><h2>In nutshell 🤏</h2></summary><br>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/iamgojoof6eyes/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://www.githubtrends.io/wrapped/iamgojoof6eyes)
+
+[To see more](https://www.githubtrends.io/wrapped/iamgojoof6eyes)
+
+</details>
+
+--------
+
 <h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/S8rxeQhIJ0zilMMZcB/giphy.gif" width="90"></h1>
   
 <h1><img src="https://media.giphy.com/media/PfwTddVAAUzxQB3yo5/giphy.gif" /></h1>
