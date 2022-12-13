@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/The-HellBot/Plugins-T/issues/85) in [The-HellBot/Plugins-T](https://github.com/The-HellBot/Plugins-T)
-2. 💪 Opened PR [#85](https://github.com/The-HellBot/Plugins-T/pull/85) in [The-HellBot/Plugins-T](https://github.com/The-HellBot/Plugins-T)
-3. 🎉 Merged PR [#1](https://github.com/iamgojoof6eyes/iamgojoof6eyes/pull/1) in [iamgojoof6eyes/iamgojoof6eyes](https://github.com/iamgojoof6eyes/iamgojoof6eyes)
-4. 🎉 Merged PR [#7](https://github.com/iamgojoof6eyes/psyrex_bot/pull/7) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
-5. 💪 Opened PR [#7](https://github.com/iamgojoof6eyes/psyrex_bot/pull/7) in [iamgojoof6eyes/psyrex_bot](https://github.com/iamgojoof6eyes/psyrex_bot)
+1. 🎉 Merged PR [#56](https://github.com/Gojo-Bots/Gojo_Satoru/pull/56) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+2. 🎉 Merged PR [#59](https://github.com/Gojo-Bots/Gojo_Satoru/pull/59) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+3. 🎉 Merged PR [#57](https://github.com/Gojo-Bots/Gojo_Satoru/pull/57) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+4. 🗣 Commented on [#85](https://github.com/The-HellBot/Plugins-T/issues/85) in [The-HellBot/Plugins-T](https://github.com/The-HellBot/Plugins-T)
+5. 💪 Opened PR [#85](https://github.com/The-HellBot/Plugins-T/pull/85) in [The-HellBot/Plugins-T](https://github.com/The-HellBot/Plugins-T)
 <!--END_SECTION:activity-->
 
 </details>
