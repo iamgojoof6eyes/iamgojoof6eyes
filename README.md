@@ -129,13 +129,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,520 Contributions in the Year 2022
+> 🏆 1,522 Contributions in the Year 2022
  > 
-> 📦 997 Bytes Used in GitHub's Storage 
+> 📦 1.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 105 Public Repositories 
+> 📜 106 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -184,13 +184,13 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+Python                   12 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 ```
 
 
 
- Last Updated on 21/12/2022 00:32:54 UTC
+ Last Updated on 22/12/2022 00:36:16 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
