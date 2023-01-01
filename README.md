@@ -129,7 +129,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,524 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 1.0 kB Used in GitHub's Storage 
  > 
@@ -190,7 +190,7 @@ Python                   11 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 
- Last Updated on 31/12/2022 00:34:30 UTC
+ Last Updated on 01/01/2023 00:39:39 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
