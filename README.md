@@ -5,7 +5,7 @@
 
 <h4>My self Captain Ezio 😉</h4>
 <h4>I am currently 17 y.o.😇</h4>
-<h4>You can use a pronoun for me he/him😌</h4>
+<h4>You can use a pronoun for me he/him/his😌</h4>
 <h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</h4>
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
