@@ -107,9 +107,9 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/The-HellBot/HellBot/pull/81) in [The-HellBot/HellBot](https://github.com/The-HellBot/HellBot)
-2. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#60](https://github.com/Gojo-Bots/Gojo_Satoru/pull/60) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+1. ❌ Closed PR [#1](https://github.com/Gojo-Bots/Member_adder/pull/1) in [Gojo-Bots/Member_adder](https://github.com/Gojo-Bots/Member_adder)
+2. 🗣 Commented on [#1](https://github.com/Gojo-Bots/Member_adder/issues/1) in [Gojo-Bots/Member_adder](https://github.com/Gojo-Bots/Member_adder)
+3. 💪 Opened PR [#81](https://github.com/The-HellBot/HellBot/pull/81) in [The-HellBot/HellBot](https://github.com/The-HellBot/HellBot)
 4. 🎉 Merged PR [#56](https://github.com/Gojo-Bots/Gojo_Satoru/pull/56) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 5. 🎉 Merged PR [#59](https://github.com/Gojo-Bots/Gojo_Satoru/pull/59) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
