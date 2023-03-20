@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/Gojo-Bots/Gojo_Satoru/pull/86) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-2. 💪 Opened PR [#86](https://github.com/Gojo-Bots/Gojo_Satoru/pull/86) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-3. 🎉 Merged PR [#85](https://github.com/Gojo-Bots/Gojo_Satoru/pull/85) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 🎉 Merged PR [#84](https://github.com/Gojo-Bots/Gojo_Satoru/pull/84) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-5. 💪 Opened PR [#84](https://github.com/Gojo-Bots/Gojo_Satoru/pull/84) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+1. ❌ Closed PR [#88](https://github.com/Gojo-Bots/Gojo_Satoru/pull/88) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+2. 🎉 Merged PR [#86](https://github.com/Gojo-Bots/Gojo_Satoru/pull/86) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+3. 💪 Opened PR [#86](https://github.com/Gojo-Bots/Gojo_Satoru/pull/86) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+4. 🎉 Merged PR [#85](https://github.com/Gojo-Bots/Gojo_Satoru/pull/85) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+5. 🎉 Merged PR [#84](https://github.com/Gojo-Bots/Gojo_Satoru/pull/84) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
 
 </details>
