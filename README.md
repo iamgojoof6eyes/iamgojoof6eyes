@@ -34,6 +34,10 @@
 </br>
 </br>
 
+<a href="https://dev.to/iamgojoof6eyes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Reddit">
+</br>
+</br>
+
 <a href="mailto:iamgojoof6eyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </br>
 </br>
@@ -201,8 +205,6 @@ Python                   12 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-### NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 </details>
 
