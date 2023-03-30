@@ -107,11 +107,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/Gojo-Bots/Gojo_Satoru/pull/94) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-2. 💪 Opened PR [#94](https://github.com/Gojo-Bots/Gojo_Satoru/pull/94) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-3. ❌ Closed PR [#87](https://github.com/Gojo-Bots/Gojo_Satoru/pull/87) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 🗣 Commented on [#143](https://github.com/bisohns/search-engine-parser/issues/143) in [bisohns/search-engine-parser](https://github.com/bisohns/search-engine-parser)
-5. 💪 Opened PR [#50](https://github.com/desinobita/SuzuneHorikita/pull/50) in [desinobita/SuzuneHorikita](https://github.com/desinobita/SuzuneHorikita)
+1. 🎉 Merged PR [#93](https://github.com/Gojo-Bots/Gojo_Satoru/pull/93) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+2. 🎉 Merged PR [#95](https://github.com/Gojo-Bots/Gojo_Satoru/pull/95) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+3. 💪 Opened PR [#95](https://github.com/Gojo-Bots/Gojo_Satoru/pull/95) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+4. 🎉 Merged PR [#94](https://github.com/Gojo-Bots/Gojo_Satoru/pull/94) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+5. 💪 Opened PR [#94](https://github.com/Gojo-Bots/Gojo_Satoru/pull/94) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
 
 </details>
