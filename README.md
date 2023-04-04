@@ -111,11 +111,11 @@
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/Gojo-Bots/Gojo_Satoru/pull/99) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-2. 🗣 Commented on [#425](https://github.com/anmol098/waka-readme-stats/issues/425) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🎉 Merged PR [#96](https://github.com/Gojo-Bots/Gojo_Satoru/pull/96) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 🎉 Merged PR [#97](https://github.com/Gojo-Bots/Gojo_Satoru/pull/97) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-5. 🎉 Merged PR [#98](https://github.com/Gojo-Bots/Gojo_Satoru/pull/98) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+1. 🎉 Merged PR [#100](https://github.com/Gojo-Bots/Gojo_Satoru/pull/100) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+2. 🎉 Merged PR [#99](https://github.com/Gojo-Bots/Gojo_Satoru/pull/99) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+3. 🗣 Commented on [#425](https://github.com/anmol098/waka-readme-stats/issues/425) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🎉 Merged PR [#96](https://github.com/Gojo-Bots/Gojo_Satoru/pull/96) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+5. 🎉 Merged PR [#97](https://github.com/Gojo-Bots/Gojo_Satoru/pull/97) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
 <!--END_SECTION:activity-->
 
 </details>
