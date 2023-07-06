@@ -85,7 +85,7 @@
    <a herf="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamgojoof6eyes&count_private=true&include_all_commits=true&theme=highcontrast&sideNums=DD0000&background=000000&border=DD2727&stroke=DD6316&ring=FF7D12&currStreakNum=FFBD05&dates=FFD500&sideLabels=FF851A" alt="Streaks"></a></br></br>
    <a herf="https://github.com/iamgojoof6eyes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgojoof6eyes&theme=radical&layout=compact" alt="Language"></a></br></br>
-   <a herf="https://guthub.com/iamgojoof6eyes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamgojoof6eyes&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
+   <a herf="https://guthub.com/iamgojoof6eyes"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamgojoof6eyes&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 
 </p>
 
