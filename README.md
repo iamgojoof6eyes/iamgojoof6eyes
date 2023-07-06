@@ -29,6 +29,10 @@
 <a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
 </br>
 </br>
+
+<a href="https://www.instagram.com/iamgojoof6eyes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</br>
+</br>
   
 <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </br>
