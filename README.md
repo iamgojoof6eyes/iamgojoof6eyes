@@ -1,9 +1,10 @@
-<details><summary><h1>Hi there <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
+<details><summary>
+<h1>Hi there <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
   
 </h1></summary><br>
 <h1><img src="https://gifdb.com/images/high/yo-child-luffy-r185fas1ytgepv89.gif" width="600" height="400"/></h1>
 
-<h4>My self Captain Ezio 😉</h4>
+<h4>My self Captain D. Ezio 😉</h4>
 <h4>I am currently 18 y.o.😇</h4>
 <h4>You can use a pronoun for me he/him/his😌</h4>
 <h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</h4>
