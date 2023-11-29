@@ -1,8 +1,8 @@
 <details><summary>
-<h1>Hi there <img src="resources/jjk.webp" width="100">
+<h1>Hi there <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
   
 </h1></summary><br>
-<h1><img src="resources/yo.gif" height="400"/></h1>
+<h1><img src="https://gifdb.com/images/high/yo-child-luffy-r185fas1ytgepv89.gif" height="400"/></h1>
 
 <h4>My self Captain D. Ezio 😉</h4>
 <h4>I am currently 18 y.o.😇</h4>
@@ -14,7 +14,7 @@
 
 <!--Connect with me-->
 <details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
-<h3><img src="resources/get you.webp" /></h3>
+<h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
 <p>
     
   <b>In case if you want to reach out to me about anything, be it some doubt or just to hangout and talk ☺️</b>
@@ -53,7 +53,7 @@
 <details><summary><h2>Stalkers and views 🤓</h2></summary><br>
 
 
-<h3><img src="resources/what.webp" /></h3>
+<h3><img src="https://media.giphy.com/media/7OTuu0E79xXETNZbD1/giphy.gif" /></h3>
 
 <p>
     <a herf="https://github.com/iamgojoof6eyes"><img src="https://komarev.com/ghpvc/?username=iamgojoof6eyes&label=Profile%20views" alt="Views">
@@ -69,7 +69,7 @@
 <details><summary><h2>My Stats 😉</h2></summary><br>
 
 
-<h3><video src="resources/luffy_smile.mp4" autoplay loop>Luffy smile</video></h3>
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzExMmxtOTVmNTgzbWNiZ29zcHJjMGh6encxYzFxemhzc3Aza3VqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JJMMbPTecaqdUJaPic/giphy.gif" /></h3>
 
 <p>
   <a><img src="https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
@@ -119,11 +119,11 @@
 
 <hr>
 <!--Syonara-->
-<h1><b>K</b><img src="resources/shinchan.webp" alt="Thanks gif"/></h1>
+<h1><b>K</b><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>
 
 
-<h1><b><i>SEE YOU IN HELL </b></i><img src="resources/byeee.webm" width="90"></h1>
+<h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFuZThuemFrczltMXA2YXN3b3h4ZjZoN2xuMjNleG5jeHA0ZTRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHK7QutQNRFVrslg27/giphy.gif" width="90"></h1>
   
-<h1><video src="resources/wink_macqueen.mp4" autoplay loop>wink macqueen</video></h1>
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA3bjllemR1YWJ2dTA5bzd6Zmg0MGMxem52eWp1N2J1amw3bDYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cw7V0tYgJdjNu03pUE/giphy.gif"></h1>
 
 </details>
