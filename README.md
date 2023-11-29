@@ -1,69 +1,59 @@
 <details><summary>
-<h1>Hi there <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
+<h1>Hi there <img src="resources/jjk.webp" width="100">
   
 </h1></summary><br>
-<h1><img src="https://gifdb.com/images/high/yo-child-luffy-r185fas1ytgepv89.gif" width="600" height="400"/></h1>
+<h1><img src="resources/yo.gif" height="400"/></h1>
 
 <h4>My self Captain D. Ezio 😉</h4>
 <h4>I am currently 18 y.o.😇</h4>
 <h4>You can use a pronoun for me he/him/his😌</h4>
-<h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</h4>
+<h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</a></h4>
 <h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
-<h4>I don't always laugh because I am mad, I do because it is my nature😁</h4>
-<h4>Sentence to discribe me: Trader of all, master of nothing🥲</h4>
-<h4>I used to keep my repositories private until I finished working on it:sweat_smile:</h4>
+<hr>
 
------
-
+<!--Connect with me-->
 <details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
-
-<h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
-
+<h3><img src="resources/get you.webp" /></h3>
 <p>
-  
+    
   <b>In case if you want to reach out to me about anything, be it some doubt or just to hangout and talk ☺️</b>
-  </br>
+</br>
   <b>All the contact methods provided are provided in the proper priority according to me. It'll take more time to get a reply as you move down.</b>
-  </br>
-  
-<a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
-</br>
-</br>
-
-<a href="https://www.instagram.com/iamgojoof6eyes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</br>
 </br>
   
-<a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://telegram.dog/iamgojoof6eyes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
 </br>
 </br>
 
-<a href="https://dev.to/iamgojoof6eyes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Reddit">
+  <a href="https://www.instagram.com/iamgojoof6eyes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</br>
+</br>
+    
+  <a href="https://twitter.com/iamgojoof6eyes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </br>
 </br>
 
-<a href="mailto:iamgojoof6eyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://dev.to/iamgojoof6eyes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Reddit">
 </br>
 </br>
 
-<a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
+  <a href="mailto:iamgojoof6eyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </br>
+</br>
+
+  <a href="https://www.reddit.com/user/iamgojoof6eyes"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </br>
 
 </p>
-
-
-
 </details>
+<hr>
 
-
-------
-
+<!--Profile views-->
 <details><summary><h2>Stalkers and views 🤓</h2></summary><br>
 
 
-<h3><img src="https://media.giphy.com/media/7OTuu0E79xXETNZbD1/giphy.gif" /></h3>
+<h3><img src="resources/what.webp" /></h3>
 
 <p>
     <a herf="https://github.com/iamgojoof6eyes"><img src="https://komarev.com/ghpvc/?username=iamgojoof6eyes&label=Profile%20views" alt="Views">
@@ -74,12 +64,12 @@
 
 </details>
 
--------
-
+<hr>
+<!--Personal stats-->
 <details><summary><h2>My Stats 😉</h2></summary><br>
 
 
-<h3><img src="https://media.giphy.com/media/BUjWcyCJOwJG3hFBes/giphy.gif" /></h3>
+<h3><video src="resources/luffy_smile.mp4" autoplay loop>Luffy smile</video></h3>
 
 <p>
   <a><img src="https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
@@ -92,120 +82,33 @@
 
 </details>
 
-<!---
-![Captain Ezio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgojoof6eyes&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000)
 
--------
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamgojoof6eyes&theme=highcontrast&sideNums=DD0000&background=000000&border=DD2727&stroke=DD6316&ring=FF7D12&currStreakNum=FFBD05&dates=FFD500&sideLabels=FF851A)](https://git.io/streak-stats)
-
---------
-
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=iamgojoof6eyes&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
--------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgojoof6eyes&theme=radical&layout=compact)
-
-[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=iamgojoof6eyes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://guthub.com/iamgojoof6eyes)
-
-------->
----------
-
+<hr>
+<!--Recent activities-->
 <details><summary><h2>Recent activities 💻</h2></summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/Gojo-Bots/Gojo_Satoru/pull/169) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-2. 🎉 Merged PR [#170](https://github.com/Gojo-Bots/Gojo_Satoru/pull/170) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-3. 🔒 Closed issue [#162](https://github.com/Gojo-Bots/Gojo_Satoru/issues/162) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-4. 🗣 Commented on [#162](https://github.com/Gojo-Bots/Gojo_Satoru/issues/162#issuecomment-1765609851) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
-5. 🎉 Merged PR [#166](https://github.com/Gojo-Bots/Gojo_Satoru/pull/166) in [Gojo-Bots/Gojo_Satoru](https://github.com/Gojo-Bots/Gojo_Satoru)
+
 <!--END_SECTION:activity-->
 
 </details>
 
-------
+<hr>
 
 <details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-353.7%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.1 kB Used in GitHub's Storage 
- > 
-> 🏆 568 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 109 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                808 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.21 % 
-🌆 Daytime                2355 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.51 % 
-🌃 Evening                2716 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.42 % 
-🌙 Night                  236 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.86 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   752 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.30 % 
-Tuesday                  731 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.95 % 
-Wednesday                527 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.62 % 
-Thursday                 1228 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.08 % 
-Friday                   1111 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.17 % 
-Saturday                 718 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.74 % 
-Sunday                   1048 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-🔥 Editors: 
-VS Code                  8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-🐱‍💻 Projects: 
-Faltu                    8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-💻 Operating System: 
-Windows                  8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   25 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.15 % 
-JavaScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.85 % 
-```
-
-
-
-
- Last Updated on 28/11/2023 18:36:28 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 </details>
 
---------
-
+<hr>
+<!--Summary-->
 <details><summary><h2>In nutshell 🤏</h2></summary><br>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/iamgojoof6eyes/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://www.githubtrends.io/wrapped/iamgojoof6eyes)
@@ -214,13 +117,13 @@ JavaScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 </details>
 
---------
+<hr>
+<!--Syonara-->
+<h1><b>K</b><img src="resources/shinchan.webp" alt="Thanks gif"/></h1>
 
-<h1><b>K</b><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>
 
-
-<h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/S8rxeQhIJ0zilMMZcB/giphy.gif" width="90"></h1>
+<h1><b><i>SEE YOU IN HELL </b></i><img src="resources/byeee.webm" width="90"></h1>
   
-<h1><img src="https://media.giphy.com/media/PfwTddVAAUzxQB3yo5/giphy.gif" /></h1>
+<h1><video src="resources/wink_macqueen.mp4" autoplay loop>wink macqueen</video></h1>
 
 </details>
