@@ -8,10 +8,16 @@
 <h4>I am currently 18 y.o.😇</h4>
 <h4>You can use a pronoun for me he/him/his😌</h4>
 <h4>Currently at <a href="https://github.com/Gojo-Bots">Gojo-Bots:grinning:</a></h4>
-<h4>I am serious about nothing except coding🥰</h4>
 <h4>Trying to learn things🤓</h4>
 <hr>
 
+<!--Learning-->
+<details><summary><h2>Currently learning 📚</h2></summary><br>
+  <b>Here are few things I am currently learning/learnt. This information is according to what I update on <a href="https://roadmap.sh" title="roadmap.sh">roadmap.sh</a> so it will not necessarily correct, there are many more things I know still not updated it on the website 😉</b>
+<a href="https://github.com/iamgojoof6eyes/iamgojoof6eyes"><img src="https://api.roadmap.sh/v1-badge/wide/65760b9e5145316d25e40f8a?variant=dark" alt="roadmap.sh"/></a>
+</details>
+<hr>
+  
 <!--Connect with me-->
 <details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
 <h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
