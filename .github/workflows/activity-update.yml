@@ -14,3 +14,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_NAME: Captain D. Ezio
+          COMMIT_EMAIL: iamgojoof6eyes@gmail.com
+          
