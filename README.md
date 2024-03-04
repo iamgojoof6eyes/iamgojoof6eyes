@@ -114,8 +114,6 @@
 
 > 📦 5.5 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -172,7 +170,7 @@ JavaScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 03/03/2024 18:35:13 UTC
+ Last Updated on 04/03/2024 18:35:49 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
