@@ -116,7 +116,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -170,7 +170,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 19/08/2024 18:40:12 UTC
+ Last Updated on 20/08/2024 18:40:17 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
