@@ -162,14 +162,14 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.14 % 
-CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.86 % 
+Python                   35 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.22 % 
+CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.78 % 
 ```
 
 
 
 
- Last Updated on 20/09/2024 18:43:13 UTC
+ Last Updated on 21/09/2024 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
