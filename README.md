@@ -114,8 +114,6 @@
 
 > 📦 8.1 kB Used in GitHub's Storage 
  > 
-> 🏆 429 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -171,7 +169,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 28/11/2024 18:45:08 UTC
+ Last Updated on 29/11/2024 18:44:59 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
