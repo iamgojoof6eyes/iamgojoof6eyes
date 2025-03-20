@@ -112,8 +112,6 @@
 
 > 📦 8.2 kB Used in GitHub's Storage 
  > 
-> 🏆 67 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 42 Public Repositories 
@@ -170,7 +168,7 @@ C                        1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 19/03/2025 18:47:05 UTC
+ Last Updated on 20/03/2025 18:45:59 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
