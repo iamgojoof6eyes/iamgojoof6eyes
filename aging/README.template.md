@@ -12,11 +12,10 @@
 <hr>
 
 <details><summary><h2>Tech Stack 💻:</h2></summary>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"alt="js"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"> <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="notepad++"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"> <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D" alt="poetry"> <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="jinja"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"alt="js"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"> <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="notepad++"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"> <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D" alt="poetry"> <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="jinja"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
 </details>
 
 <hr>
-  
 <!--Connect with me-->
 <details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
 <h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
@@ -103,20 +102,6 @@
 </details>
 
 <hr>
-
-<details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
-
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-</details>
-
-<hr>
 <!--Summary-->
 <details><summary><h2>In nutshell 🤏</h2></summary><br>
 
@@ -131,7 +116,7 @@
 <!--Syonara-->
 <h1><b>K</b><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>
 
-<h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFuZThuemFrczltMXA2YXN3b3h4ZjZoN2xuMjNleG5jeHA0ZTRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHK7QutQNRFVrslg27/giphy.gif" width="90"></h1>
+<h1><b><i>SEE YOU</b></i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFuZThuemFrczltMXA2YXN3b3h4ZjZoN2xuMjNleG5jeHA0ZTRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHK7QutQNRFVrslg27/giphy.gif" width="90"></h1>
   
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA3bjllemR1YWJ2dTA5bzd6Zmg0MGMxem52eWp1N2J1amw3bDYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cw7V0tYgJdjNu03pUE/giphy.gif"></h1>
 
